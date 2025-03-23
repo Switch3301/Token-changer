@@ -49,4 +49,4 @@ Using proxies is essential to avoid Discord's rate limits and IP bans. Outpost o
 By using this tool, you accept full responsibility for any consequences. The developers are not responsible for any misuse or resulting account actions.
 
 ## Contact
-Discord: 2b292e2760362f2e / https://discord.gg/switchuwu
+Discord: switch3301 / https://discord.gg/switchuwu
